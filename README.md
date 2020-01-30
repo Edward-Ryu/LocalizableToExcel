@@ -3,9 +3,9 @@
 Make easy to change Localizable.strings to spread sheet.
 
 How To Use
-1. clone & download
-2. download file
-3. open README.md file
+1. Clone or download
+2. Download ZIP
+3. Open README.md file
 4. Copy & Paste below code to Playground.
 5. Copy & Paste your Localizable.strings file string to localizableString.
 */
