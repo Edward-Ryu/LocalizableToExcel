@@ -1,8 +1,13 @@
 # LocalizableToExcel
 /*
 Make easy to change Localizable.strings to spread sheet.
-Copy & Paste below code to Playground.
-Copy & Paste your Localizable.strings file string to localizableString.
+
+How To Use
+1. clone & download
+2. download file
+3. open README.md file
+4. Copy & Paste below code to Playground.
+5. Copy & Paste your Localizable.strings file string to localizableString.
 */
 
 var localizableString = """
